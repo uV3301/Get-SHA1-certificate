@@ -13,4 +13,4 @@ cd C:\Program Files\Java\jdk-{some version}\bin\
 
 #### Output
 
-![Alt text](/snapshot.png?raw=true "Snapshot")
+![example](./snapshot.jpg?raw=true "Snapshot")
