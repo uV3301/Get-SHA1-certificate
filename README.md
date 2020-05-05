@@ -14,3 +14,6 @@ cd C:\Program Files\Java\jdk-{some version}\bin\
 #### Output
 
 ![example](./snapshot.jpg?raw=true "Snapshot")
+
+
+Feel free to contibrute for Mac/Linux users with ❤️
