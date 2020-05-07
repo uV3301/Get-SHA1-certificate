@@ -8,7 +8,7 @@ cd C:\Program Files\Java\jdk-{some version}\bin\
 ```
 #### After reaching above dir
 ```
-...\bin> keytool -list -v -keystore C:Users\{username}\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
+...\bin> keytool -list -v -keystore C:\Users\{username}\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
 ```
 
 #### Output
